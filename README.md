@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently exploring Full Stack Development and highly enthusiastic to learn new skills.
+Currently interested in the DevOps landscape
 
 
 ## 🌐 Socials:
